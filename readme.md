@@ -2,9 +2,9 @@
 
 # Max
 
-* [01_max](https://cycling74.com/products/max)
-* [02_msp](https://cycling74.com/products/max)
-* [03_osc](https://cycling74.com/products/max)
+* [01_max](https://github.com/yonekura907/dh17max/blob/master/01_max.md)
+* [02_msp](https://github.com/yonekura907/dh17max/blob/master/02_msp.md)
+* [03_osc](https://github.com/yonekura907/dh17max/blob/master/03_osc.md)
 
 
 &nbsp;
