@@ -13,7 +13,7 @@
 &nbsp;
 
 
-[Max7](https://cycling74.com/products/max)
+[Cycling'74 Max7](https://cycling74.com/products/max)
 
 ビジュアル型プログラミング、音響系プログラミングとして歴史がある。
 
