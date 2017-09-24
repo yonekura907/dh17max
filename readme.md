@@ -74,3 +74,25 @@ Yuri Suzuki Design Studio
 &nbsp;
 &nbsp;
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+## 参照
+
+#### 書籍
+
+* 2061:Maxオデッセイ
+* Maxの教科書
+* Maxではじめるサウンドプログラミング
+
+&nbsp;
+
+#### Webサイト
+
+* [CYCLING'74 MAX基礎](http://nakayasu.com/lecture/cycling74-max%E5%9F%BA%E7%A4%8E/6926)
+* [Maxチュートリアル](http://yoppa.org/ssaw10/798.html)
+* [MAXER JP](https://maxerjp.wordpress.com/)
+* [yoppa](http://yoppa.org/ssaw10/798.html)
