@@ -38,43 +38,8 @@ OpenSound Control（OSC）とは、電子楽器（特にシンセサイザー）
 
 ```
 replay9000 hello
-
 ```
 
-
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
-## OSCの設定
-
-#### ネットワークアドレスの確認
-
-![](https://yonekura907.github.io/myMax/ipadress.png)
-
-
-#### OSCの送受信
-
-* udpsend 送り先のIPアドレスとポート番号を指定
-
-![](https://yonekura907.github.io/myMax/udp01.png)
-
-&nbsp;
-
-* udpreceive 送信元のポート番号を指定
-
-![](https://yonekura907.github.io/myMax/udp02.png)
-
-&nbsp;
-
-* コンソール
-
-```
-replay9000 hello
-
-```
 
 &nbsp;
 &nbsp;
