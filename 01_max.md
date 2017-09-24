@@ -9,6 +9,8 @@
 
 ### bang プログラミングの流れ
 メッセージや値を押し出す。弾丸の様な役割
+
+![](https://yonekura907.github.io/myMax/bang.png)
  
 &nbsp;
 &nbsp;
@@ -202,7 +204,7 @@ setは、出力は行わずに、 メッセージ ・ボックス の内容を�
 リストの演算子や関数を記述することができる
 
 
-![](https://yonekura907.github.io/myMax/vexpr 01.png)
+![](https://yonekura907.github.io/myMax/vexpr01.png)
 
 
 &nbsp;
