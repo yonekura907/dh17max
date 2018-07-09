@@ -74,10 +74,7 @@ Yuri Suzuki Design Studio
 &nbsp;
 &nbsp;
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+
 
 
 ## 参照
@@ -92,7 +89,7 @@ Yuri Suzuki Design Studio
 
 #### Webサイト
 
-* [MAX基礎](http://lecture.nakayasu.com/?p=2645)
+* [nakayasu.com/MAX基礎](http://lecture.nakayasu.com/?p=2645)
 * [Maxチュートリアル](http://www.s-musiclab.jp/mmj_docs/max4/max/max_tutorial/mxtu_top.html)
 * [MAXER JP](https://maxerjp.wordpress.com/)
 * [yoppa](http://yoppa.org/ssaw10/798.html)
