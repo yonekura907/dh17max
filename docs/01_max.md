@@ -3,15 +3,15 @@
 
 インレットからアウトレットへ上から下へ値が送られていく
 
-![](https://yonekura907.github.io/myMax/basic01.png)
+![](img/basic01.png)
 
 &nbsp;
 
 ### bang プログラミングの流れ
 メッセージや値を押し出す。弾丸の様な役割
 
-![](https://yonekura907.github.io/myMax/bang.png)
- 
+![](img/bang.png)
+
 &nbsp;
 &nbsp;
 &nbsp;
@@ -24,14 +24,14 @@
 アウトレットからインレットで繋いでプログラミングを形成していく。
 
 
-![](https://yonekura907.github.io/myMax/inletoutlet.png)
+![](img/inletoutlet.png)
 
 
 ### アーギュメント
 引数の役割をする。オブジェクトの第2インレットで値を上書きできる
 
-![](https://yonekura907.github.io/myMax/basic02.png)
-![](https://yonekura907.github.io/myMax/arg01.png)
+![](img/basic02.png)
+![](img/arg01.png)
 
 &nbsp;
 &nbsp;
@@ -49,7 +49,7 @@
 Bangを出力する
 [B]
 
-![](https://yonekura907.github.io/myMax/button.png)
+![](img/button.png)
 
 &nbsp;
 
@@ -57,7 +57,7 @@ Bangを出力する
 オンとオフ（0と1）で切り替える
 [T]
 
-![](https://yonekura907.github.io/myMax/toggle.png)
+![](img/toggle.png)
 
 &nbsp;
 
@@ -65,7 +65,7 @@ Bangを出力する
 整数の数値。int型
 [I]
 
-![](https://yonekura907.github.io/myMax/number.png)
+![](img/number.png)
 
 &nbsp;
 
@@ -73,7 +73,7 @@ Bangを出力する
 小数点以下を含む数値。float型
 [F]
 
-![](https://yonekura907.github.io/myMax/float.png)
+![](img/float.png)
 
 &nbsp;
 &nbsp;
@@ -83,7 +83,7 @@ Bangを出力する
 
 #### int型とfloat型の型変換
 
-![](https://yonekura907.github.io/myMax/cast.png)
+![](img/cast.png)
 
 
 &nbsp;
@@ -95,14 +95,14 @@ Bangを出力する
 
 ### 値の受け渡し / マウスでオブジェクト自身をクリック
 
-![](https://yonekura907.github.io/myMax/message01.png)
+![](img/message01.png)
 
 &nbsp;
 &nbsp;
 
 ### bangメッセージ
 
-![](https://yonekura907.github.io/myMax/message02.png)
+![](img/message02.png)
 
 &nbsp;
 &nbsp;
@@ -122,7 +122,7 @@ Bangを出力する
 &nbsp;
 &nbsp;
 
-![](https://yonekura907.github.io/myMax/message03.png)
+![](img/message03.png)
 
 メッセージボックスは右インレットに値を受け取るとボックス内に表示される。
 
@@ -134,7 +134,7 @@ Bangを出力する
 
 setは、出力は行わずに、 メッセージ ・ボックス の内容を新しいメッセージに設定します。 set メッセージだけであれば、 メッセージ ・ボックスの内容を消去します。
 
-![](https://yonekura907.github.io/myMax/set01.png)
+![](img/set01.png)
 
 
 &nbsp;
@@ -145,7 +145,7 @@ setは、出力は行わずに、 メッセージ ・ボックス の内容を�
 アーギュメントに $ と番号が含まれている場合は、一致する番号の$アーギュメントを、リストのそれぞれの項目に置き換えた上で、 メッセージ ・ボックスの内容を出力します。
 第4インレット：出力せず メッセージ ・ボックスの内容を設定します。
 
-![](https://yonekura907.github.io/myMax/list01.png)
+![](img/list01.png)
 
 
 
@@ -162,7 +162,7 @@ setは、出力は行わずに、 メッセージ ・ボックス の内容を�
 
 ミリ秒でBangを出力する
 
-![](https://yonekura907.github.io/myMax/metro.png)
+![](img/metro.png)
 
 &nbsp;
 &nbsp;
@@ -172,7 +172,7 @@ setは、出力は行わずに、 メッセージ ・ボックス の内容を�
 * pack (pak) 受け取った値からリストを作る
 * unpack リストから値を取り出す
 
-![](https://yonekura907.github.io/myMax/pack01.png)
+![](img/pack01.png)
 
 
 
@@ -185,7 +185,7 @@ setは、出力は行わずに、 メッセージ ・ボックス の内容を�
 * decide 0か1のランダム数値
 
 
-![](https://yonekura907.github.io/myMax/random01.png)
+![](img/random01.png)
 
 
 
@@ -195,7 +195,7 @@ setは、出力は行わずに、 メッセージ ・ボックス の内容を�
 演算子や関数を記述することができる
 
 
-![](https://yonekura907.github.io/myMax/expr01.png)
+![](img/expr01.png)
 
 
 &nbsp;
@@ -204,7 +204,7 @@ setは、出力は行わずに、 メッセージ ・ボックス の内容を�
 リストの演算子や関数を記述することができる
 
 
-![](https://yonekura907.github.io/myMax/vexpr01.png)
+![](img/vexpr01.png)
 
 
 &nbsp;
@@ -215,7 +215,7 @@ setは、出力は行わずに、 メッセージ ・ボックス の内容を�
 * loadmess
 	* パッチを立ち上げた時にアーギュメントをbangする
 
-![](https://yonekura907.github.io/myMax/loadbang01.png)
+![](img/loadbang01.png)
 
 
 &nbsp;
@@ -229,7 +229,7 @@ setは、出力は行わずに、 メッセージ ・ボックス の内容を�
 	3. 最大値
 
 
-![](https://yonekura907.github.io/myMax/counter01.png)
+![](img/counter01.png)
 
 
 &nbsp;
@@ -245,7 +245,7 @@ setは、出力は行わずに、 メッセージ ・ボックス の内容を�
 	3. 最大値
 
 
-![](https://yonekura907.github.io/myMax/gate01.png)
+![](img/gate01.png)
 
 
 &nbsp;
@@ -256,7 +256,7 @@ setは、出力は行わずに、 メッセージ ・ボックス の内容を�
 ### 条件分岐
 
 
-![](https://yonekura907.github.io/myMax/if01.png)
+![](img/if01.png)
 
 
 &nbsp;
@@ -276,7 +276,7 @@ if 条件式 then 出力1 else 出力2
 * float型 $f1
 * symbol $s1
 
-![](https://yonekura907.github.io/myMax/if02.png)
+![](img/if02.png)
 
 
 &nbsp;
@@ -290,7 +290,7 @@ if 条件式 then 出力1 else 出力2
 アーギュメント1が第1アウトレット、アーギュメント2が第2アウトレットへ流れていき、
 いずれにも該当しない場合は最後のアウトレットに流れる。
 
-![](https://yonekura907.github.io/myMax/select01.png)
+![](img/select01.png)
 
 
 &nbsp;
@@ -301,7 +301,7 @@ if 条件式 then 出力1 else 出力2
 
 値を出力の範囲にマッピングする
 
-![](https://yonekura907.github.io/myMax/scale.png)
+![](img/scale.png)
 
 
 &nbsp;
@@ -315,14 +315,14 @@ if 条件式 then 出力1 else 出力2
 
 右側のインレットから先にBangされる
 
-![](https://yonekura907.github.io/myMax/righttoleft.png)
+![](img/righttoleft.png)
 
 &nbsp;
 &nbsp;
 
 右に配置したものから先にBangされる
 
-![](https://yonekura907.github.io/myMax/righttoleft2.png)
+![](img/righttoleft2.png)
 
 
 &nbsp;
@@ -332,15 +332,15 @@ if 条件式 then 出力1 else 出力2
 
 同じ位置なら下のものから先にBangされる
 
-![](https://yonekura907.github.io/myMax/bottomtotop.png)
+![](img/bottomtotop.png)
 
 
 &nbsp;
 &nbsp;
 
 
-### trigger 
+### trigger
 
 位置に依存されずBangを出力する。ただし右から順番に出力される
 
-![](https://yonekura907.github.io/myMax/trigger.png)
+![](img/trigger.png)

@@ -2,9 +2,9 @@
 
 # Max
 
-* [01_max](https://github.com/yonekura907/dh17max/blob/master/01_max.md)
-* [02_msp](https://github.com/yonekura907/dh17max/blob/master/02_msp.md)
-* [03_osc](https://github.com/yonekura907/dh17max/blob/master/03_osc.md)
+* [max](docs/01_max.md)
+* [msp](docs/02_msp.md)
+* [osc](docs/03_osc.md)
 
 
 &nbsp;
